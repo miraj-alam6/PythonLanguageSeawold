@@ -1,0 +1,13 @@
+{
+  number1 = 125;
+  number2 = 210;
+  print("The minimum is: ");
+  if (number1 < number2) {
+    println(number1);
+  } else {
+    println(number2);
+  }
+ 
+}
+
+ 
